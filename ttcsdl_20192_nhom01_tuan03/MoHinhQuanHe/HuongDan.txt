@@ -1,0 +1,7 @@
+﻿C1: 	
+   Tải và cài đặt ứng dụng draw.io về máy tính.
+   Vào ứng dụng chọn Open Existing Diagram rồi chọn file cần mở or chọn Creat New Diagram rồi kéo và thả file cần mở vào ứng dụng.
+C2:
+   Truy cập trang web draw.io.
+   Chọn Open Existing Diagram rồi chọn file cần mở hoặc chọn Creat New Diagram rồi kéo và thả file cần mở vào trình duyệt.
+	
